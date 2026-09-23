@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4ff1e514e2fe410c875c544b",
+  "owner": "uyfpwu",
+  "repo": "page-af25dfa7217330c5c4add4a9",
+  "title": "芒果网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "af25dfa7217330c5c4add4a9",
+      "a": "芒果网络",
+      "b": "2027最新官网",
+      "entity": "芒果网络",
+      "brand": "芒果网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d23dca9141c9210f926f3a319443bb718aabf38e6ee0a965a26b553b3013b612",
+      "content": {
+        "primary_entity": "芒果网络",
+        "keyword1": "芒果网络",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕稳定加速与多设备使用场景，提供基础版、旗舰版与团队版三档订阅，月付起步 ¥15，年付更省。基础版适合手机与平板轻量浏览，旗舰版提供 IPLC 专线并优化游戏延迟，团队版可管理 20 台设备并支持企业路由定制。按设备选择客户端后，参照配置文档导入订阅即可完成设置。",
+          "AI_HERO_SUBTITLE": "多设备加速，选对套餐更省心",
+          "AI_HERO_INTRO": "芒果网络提供海外加速订阅服务，按流量、设备和线路区分档位，覆盖日常浏览、流媒体播放与游戏低延迟需求。选择套餐后，可在常用客户端导入订阅地址使用，年付方案价格更优。",
+          "AI_VISUAL_TITLE": "加速套餐清晰可选",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付价格更省",
+          "AI_FEATURES_TITLE": "芒果网络使用要点",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三方面，快速判断适合的加速方案。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常用量匹配档位。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖个人到小型团队使用。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "手机、平板与电脑可根据系统选择支持订阅导入的客户端，再参照对应配置文档完成设置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻量浏览，旗舰版适合游戏与流媒体，团队版适合多设备与企业路由场景。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配要求，最后依照客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据月流量、在线设备数和线路需求，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看设备适配",
+          "AI_STEP_TEXT_2": "确认常用设备的系统和客户端是否支持订阅导入，并留意同时在线设备上限。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档，将订阅地址添加到客户端并完成节点选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐即刻使用",
+          "AI_CLOSING_TEXT": "按流量和设备需求选择芒果网络套餐，参照客户端文档开始配置。",
+          "AI_FAQ_ANSWER_1": "芒果网络提供基础版、旗舰版和团队版。基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，含IPLC专线游戏加速优化；团队版每月1000GB、20台设备，支持企业定制路由。",
+          "AI_FAQ_ANSWER_2": "旗舰版强调全节点原生流媒体解锁与IPLC专线游戏加速优化，适合对延迟和画质有要求的用户；基础版提供普通线路节点池，满足日常浏览与基础流媒体。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。按常用设备数量选择即可，切换设备时重新登录对应客户端。",
+          "AI_FAQ_ANSWER_4": "年付更划算：基础版按年付仅需¥150/年，旗舰版按年付仅需¥350/年，团队版按年付仅需¥850/年。月付适合短期体验，年付适合长期使用。",
+          "AI_FAQ_ANSWER_5": "在对应客户端中导入订阅地址，更新节点后选择线路连接。若需更换套餐，可在账户内调整后重新获取订阅配置。",
+          "AI_FAQ_QUESTION_1": "芒果网络有哪些套餐可选？",
+          "AI_FAQ_QUESTION_2": "旗舰版比基础版多了什么？",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_5": "如何导入订阅使用？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq250g5o4a.org",
+    "host": "xn--9kq250g5o4a.org"
+  },
+  "file_hashes": {
+    "index.html": "c2de50d1b51b0ccdb99f7b362f18f000d57f97dd103329ea3bfc0057e72f439e",
+    "sitemap.xml": "d0d15f48d9cbef8ddeb3f00b3eaa6d4d6ffdbac50179a9f2a0729309e7b24e6e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ab581b06f96f1e6d0c77f5ea7e66ef1d772ec5fb96a2da03aee4fe7e4f3cd673",
+    "robots.txt": "a4461b9db19b02ed69bfb20e1c077c51da2913741a13f9d1ebb872f69d34be9f",
+    "cb24bd9bb4f99db1c0a413d292bfe136.txt": "b6a62b38db0c9820a7cbe75e8bd1eb4ad0c6028881b40c23a6d233fb929232e1"
+  },
+  "revision": "ea44e41949836a3a2e39c84a6339eaae65f62a36dbbfebc6fb76f8a71286815c"
+}
